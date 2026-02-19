@@ -1,0 +1,1 @@
+import{r as a,j as o}from"./chunk-BDiHQZ9Y.js";const d=a.forwardRef((r,s)=>o.jsx("body",{...r,ref:s}));d.displayName="Body";const f=a.forwardRef((r,s)=>{const{children:t,$webstudio$canvasOnly$assetId:n,...e}=r;return o.jsx("a",{...e,href:e.href??"#",ref:s,children:t})});f.displayName="Link";export{f as a,d as f};
